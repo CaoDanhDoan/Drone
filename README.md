@@ -1,6 +1,7 @@
 # 🛸 ESP32 Drone Project
 ![Uploading image.png…]()
 
+
 ## 🚀 Giới thiệu
 
 Đây là một dự án **Drone 4 cánh (quadcopter)** sử dụng **ESP32** để điều khiển. Drone có thể nhận tín hiệu từ tay điều khiển RC, tự động giữ thăng bằng nhờ cảm biến, hiển thị thông tin môi trường (nhiệt độ, độ ẩm), và hỗ trợ giám sát từ xa qua giao diện Web.
