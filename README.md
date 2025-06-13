@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/66741e72-455e-44e4-8046-4c43080f94e9)![image](https://github.com/user-attachments/assets/2ecbc939-de8d-4f73-ae85-e606d6107d1c)![image](https://github.com/user-attachments/assets/ea54ecf3-1338-42db-9d71-566325a7e9a9)# 🛸 ESP32 Drone Project
+# 🛸 ESP32 Drone Project
 
 ## 🚀 Giới thiệu
 
