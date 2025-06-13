@@ -1,5 +1,5 @@
 # 🛸 ESP32 Drone Project
-![Uploading image.png…]()
+![Mô tả ảnh](drone.png)
 
 
 ## 🚀 Giới thiệu
